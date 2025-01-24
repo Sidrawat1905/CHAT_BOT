@@ -1,2 +1,2 @@
-# CHAT_BOT
-This is a chat bot 
+# ChatBot
+this i use to learn about ai things
